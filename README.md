@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siedahh
-- 👀 I’m interested in data acquisition.
+- 👀 I’m interested in data acquisition
 - 🌱 I’m currently learning C/C++
 
 <!---
