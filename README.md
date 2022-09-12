@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Siedahh
-- 👀 I’m interested in data acquisition
-- 🌱 I’m currently learning C/C++
+- 👋 Hi, I’m Siedah!
+- 👀 I’m interested in data acquisition and analysis methods
+- 🌱 I’m currently using C/C++, Python, MATLAB, and IgorPro
 
 <!---
 Siedahh/Siedahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
