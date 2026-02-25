@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siedah!
 - 📉 I am a phycist with a background in photonics and laser techniques
-- 👀 I’m interested in data acquisition and analysis methods
+- 👀 I’m interested in automation, data acquisition, and analysis methods
 - 🌱 I’m currently using C/C++, Python, MATLAB, and IgorPro
 
 <!---
